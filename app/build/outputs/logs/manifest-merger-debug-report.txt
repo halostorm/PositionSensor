@@ -1,0 +1,87 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Jaiz\Documents\Coursera\JavaForAndroid\PositionSensor\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from C:\Users\Jaiz\Documents\Coursera\JavaForAndroid\PositionSensor\app\src\main\AndroidManifest.xml:3:5-46
+		INJECTED from C:\Users\Jaiz\Documents\Coursera\JavaForAndroid\PositionSensor\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Jaiz\Documents\Coursera\JavaForAndroid\PositionSensor\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Jaiz\Documents\Coursera\JavaForAndroid\PositionSensor\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Jaiz\Documents\Coursera\JavaForAndroid\PositionSensor\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Jaiz\Documents\Coursera\JavaForAndroid\PositionSensor\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\Jaiz\Documents\Coursera\JavaForAndroid\PositionSensor\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Jaiz\Documents\Coursera\JavaForAndroid\PositionSensor\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\Jaiz\Documents\Coursera\JavaForAndroid\PositionSensor\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Jaiz\.android\build-cache\f7f44ba4a4e647d57ff71538482bb4fb379d7321\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Jaiz\.android\build-cache\c5d74123d8c0acbd8b381a1400a1d4810423a1ca\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Jaiz\.android\build-cache\bdf53216391ea1df5b32f0ece12ce4fcdf655667\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Jaiz\.android\build-cache\56fa333ba4c816b3eaa9c268d28688e9259d19a7\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Jaiz\.android\build-cache\77f4fb5f6955174c1adb7b4bd72f9a5406b78882\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Jaiz\.android\build-cache\9fc18a84da104b74548dd7441cecb1dac703560b\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Jaiz\.android\build-cache\c0e7b36278d7998124b915dd4bb1856a447a3641\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Jaiz\.android\build-cache\3d68c4c8bef4262094818d2391b43457a7129e86\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Jaiz\.android\build-cache\601b969ef5cbf792c163d1a53e21a3eea223c384\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Jaiz\.android\build-cache\b03f009c92fc5b4e124063964b89d57c7731c052\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from C:\Users\Jaiz\Documents\Coursera\JavaForAndroid\PositionSensor\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from C:\Users\Jaiz\Documents\Coursera\JavaForAndroid\PositionSensor\app\src\main\AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from C:\Users\Jaiz\Documents\Coursera\JavaForAndroid\PositionSensor\app\src\main\AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from C:\Users\Jaiz\Documents\Coursera\JavaForAndroid\PositionSensor\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from C:\Users\Jaiz\Documents\Coursera\JavaForAndroid\PositionSensor\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from C:\Users\Jaiz\Documents\Coursera\JavaForAndroid\PositionSensor\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.jaiz.positionsensor.MainActivity
+ADDED from C:\Users\Jaiz\Documents\Coursera\JavaForAndroid\PositionSensor\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\Jaiz\Documents\Coursera\JavaForAndroid\PositionSensor\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Jaiz\Documents\Coursera\JavaForAndroid\PositionSensor\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Jaiz\Documents\Coursera\JavaForAndroid\PositionSensor\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\Jaiz\Documents\Coursera\JavaForAndroid\PositionSensor\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Jaiz\Documents\Coursera\JavaForAndroid\PositionSensor\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\Jaiz\Documents\Coursera\JavaForAndroid\PositionSensor\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from C:\Users\Jaiz\Documents\Coursera\JavaForAndroid\PositionSensor\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Jaiz\.android\build-cache\f7f44ba4a4e647d57ff71538482bb4fb379d7321\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Jaiz\.android\build-cache\c5d74123d8c0acbd8b381a1400a1d4810423a1ca\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Jaiz\.android\build-cache\bdf53216391ea1df5b32f0ece12ce4fcdf655667\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Jaiz\.android\build-cache\56fa333ba4c816b3eaa9c268d28688e9259d19a7\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Jaiz\.android\build-cache\77f4fb5f6955174c1adb7b4bd72f9a5406b78882\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Jaiz\.android\build-cache\9fc18a84da104b74548dd7441cecb1dac703560b\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Jaiz\.android\build-cache\c0e7b36278d7998124b915dd4bb1856a447a3641\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Jaiz\.android\build-cache\3d68c4c8bef4262094818d2391b43457a7129e86\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Jaiz\.android\build-cache\601b969ef5cbf792c163d1a53e21a3eea223c384\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Jaiz\.android\build-cache\b03f009c92fc5b4e124063964b89d57c7731c052\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Jaiz\.android\build-cache\f7f44ba4a4e647d57ff71538482bb4fb379d7321\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\Jaiz\Documents\Coursera\JavaForAndroid\PositionSensor\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Jaiz\Documents\Coursera\JavaForAndroid\PositionSensor\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Jaiz\Documents\Coursera\JavaForAndroid\PositionSensor\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Jaiz\Documents\Coursera\JavaForAndroid\PositionSensor\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Jaiz\.android\build-cache\f7f44ba4a4e647d57ff71538482bb4fb379d7321\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Jaiz\.android\build-cache\c5d74123d8c0acbd8b381a1400a1d4810423a1ca\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Jaiz\.android\build-cache\bdf53216391ea1df5b32f0ece12ce4fcdf655667\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Jaiz\.android\build-cache\56fa333ba4c816b3eaa9c268d28688e9259d19a7\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Jaiz\.android\build-cache\77f4fb5f6955174c1adb7b4bd72f9a5406b78882\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Jaiz\.android\build-cache\9fc18a84da104b74548dd7441cecb1dac703560b\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Jaiz\.android\build-cache\c0e7b36278d7998124b915dd4bb1856a447a3641\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Jaiz\.android\build-cache\3d68c4c8bef4262094818d2391b43457a7129e86\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Jaiz\.android\build-cache\601b969ef5cbf792c163d1a53e21a3eea223c384\output\AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Jaiz\.android\build-cache\f7f44ba4a4e647d57ff71538482bb4fb379d7321\output\AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Jaiz\.android\build-cache\f7f44ba4a4e647d57ff71538482bb4fb379d7321\output\AndroidManifest.xml:26:9-47
